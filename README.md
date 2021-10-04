@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifcodestudy
 - 👀 I’m interested in giving life to my own ideas
-- 🌱 I’m currently learning Python and using GitHub
+- 🌱 I’m currently learning Python and using GitHub, you can see part of my study progress on https://cursos.alura.com.br/user/romeuvignatti
 - 💞️ I’m looking to collaborate on Open Sourse project to learn and help the community
 - 📫 How to reach me: romeuvignatti@gmail.com
 
